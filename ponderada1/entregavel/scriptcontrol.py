@@ -190,8 +190,6 @@ class TurtleController(Node):
         self.kill_turtle('turtle6')
         sleep(1)
         
-        # Fecha o script python
-        exit()
 
 # Funcao para iniciar o script(nodo do ROS(rclpy)) e suas funcoes
 def main(args=None):
