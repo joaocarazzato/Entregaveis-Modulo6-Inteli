@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+../../build/robocontrol/robocontrol.egg-info/PKG-INFO
+../../build/robocontrol/robocontrol.egg-info/SOURCES.txt
+../../build/robocontrol/robocontrol.egg-info/dependency_links.txt
+../../build/robocontrol/robocontrol.egg-info/entry_points.txt
+../../build/robocontrol/robocontrol.egg-info/requires.txt
+../../build/robocontrol/robocontrol.egg-info/top_level.txt
+../../build/robocontrol/robocontrol.egg-info/zip-safe
+resource/robocontrol
+robocontrol/__init__.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
