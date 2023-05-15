@@ -15,4 +15,4 @@ Com o projeto já funcionando, podemos começar a realizar nossas próprias rota
 
 Após ter testado e descobrir o que se quer fazer com o rqt, podemos iniciar o desenvolvimento através do script.
 
-Para realizarmos qualquer mudanca de posições que gostariamos de seguir, é só mudar a lista de posições da rota localizado no início do arquivo.
+Para realizarmos qualquer mudanca de posições que gostariamos de seguir, é só mudar a lista de posições da rota localizado no início do arquivo `__init__.py`.
