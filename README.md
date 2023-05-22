@@ -14,5 +14,12 @@ Este repositório possui as questões das atividades ponderadas para os alunos. 
 
 ## Semana 3
 
-- ***Ponderada 2 - Utilizando grafos para otimização de rota:*** Segunda atividade ponderada do módulo, com o objetivo de introduzir em um ambiente controlado os conceitos de utilização de grafos e outras estruturas de dados e sua possível interação com sistemas robóticos. É possível consultar o enunciado, padrão de qualidade e arquivos de referência na [pasta da atividade](./ponderada2)
+- ***Ponderada 2 - Simulação de robôs móveis com Gazebo:*** Segunda atividade ponderada do módulo, com o objetivo de introduzir, em um ambiente controlado, os conceitos de utilização estruturas de dados e sua possível interação com sistemas robóticos. É possível consultar o enunciado, padrão de qualidade e arquivos de referência na [pasta da atividade](./ponderada2)
 
+## Semana 5
+
+- ***Ponderada 3 - Processamento de imagens e detecção de objetos:*** Terceira atividade ponderada do módulo, com o objetivo de introduzir os conceitos relacionados à visão computacional, especificamente o processamento de imagens e o uso de filtros convolucionais para processamento de imagens e detecção de objetos. É possível consultar o enunciado, padrão de qualidade e arquivos de referência na [pasta da atividade](./ponderada3)
+
+## Semana 7
+
+- ***Ponderada 5 - ???:*** TBD.
