@@ -22,4 +22,4 @@ Este repositório possui as questões das atividades ponderadas para os alunos. 
 
 ## Semana 7
 
-- ***Ponderada 5 - ???:*** TBD.
+- ***Ponderada 5 - Desenvolvendo um backend para transmissão e armazenamento de imagens:*** Última atividade ponderada do módulo. O objetivo é o desenvolvimento de um backend para integração com o OpenCV no armazenamento e transmissão de imagens. É possível consultar o enunciado, padrão de qualidade e arquivos de referência na [pasta da atividade](./ponderada4)
